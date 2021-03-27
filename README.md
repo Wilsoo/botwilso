@@ -1,1 +1,1 @@
-# vk-slaves-python-bot
+# Wilso Bot for Termux or Python
