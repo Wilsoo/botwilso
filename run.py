@@ -28,6 +28,34 @@ client = Slaves(token)
 
 jobs = ['vk.com/botwilso']
 
+print("BOT by Wilso (vk.com/botwilso)")
+print("BOT by Wilso (vk.com/botwilso)")
+print("BOT by Wilso (vk.com/botwilso)")
+print("BOT by Wilso (vk.com/botwilso)")
+print("BOT by Wilso (vk.com/botwilso)")
+print("BOT by Wilso (vk.com/botwilso)")
+print("BOT by Wilso (vk.com/botwilso)")
+print("BOT by Wilso (vk.com/botwilso)")
+print("BOT by Wilso (vk.com/botwilso)")
+print("BOT by Wilso (vk.com/botwilso)")
+print("BOT by Wilso (vk.com/botwilso)")
+print("BOT by Wilso (vk.com/botwilso)")
+print("BOT by Wilso (vk.com/botwilso)")
+print("BOT by Wilso (vk.com/botwilso)")
+print("BOT by Wilso (vk.com/botwilso)")
+print("BOT by Wilso (vk.com/botwilso)")
+print("BOT by Wilso (vk.com/botwilso)")
+print("BOT by Wilso (vk.com/botwilso)")
+print("BOT by Wilso (vk.com/botwilso)")
+print("BOT by Wilso (vk.com/botwilso)")
+print("BOT by Wilso (vk.com/botwilso)")
+print("BOT by Wilso (vk.com/botwilso)")
+print("BOT by Wilso (vk.com/botwilso)")
+print("BOT by Wilso (vk.com/botwilso)")
+print("BOT by Wilso (vk.com/botwilso)")
+print("BOT by Wilso (vk.com/botwilso)")
+print("BOT by Wilso (vk.com/botwilso)")
+
 
 # //////////////////////////////////////////////////////////////////////////////
 # //////////////////////////////////////////////////////////////////////////////
